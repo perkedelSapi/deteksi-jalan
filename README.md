@@ -82,4 +82,4 @@ cap.release()
 out.release()
 cv2.destroyAllWindows()
 ```
-https://github.com/user-attachments/assets/53731004-a035-4363-a8b6-089c4d035591
+![1](gambar/walk.gif)
