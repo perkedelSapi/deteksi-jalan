@@ -35,7 +35,7 @@ cv2.destroyAllWindows()
 ```
 ![1](gambar/1.png)
 
-### program untuk mendeteksi pejalan kaki dalam sebuah gambar
+### program untuk mendeteksi pejalan kaki dalam sebuah video
 ```python
 import cv2
 import imutils
